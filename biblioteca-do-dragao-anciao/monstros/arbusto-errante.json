@@ -1,0 +1,43 @@
+{
+    "name": "Arbusto Errante",
+
+    "fvtt": "<a href='./fvtt-dl/arbusto-errante.json' download><img src='./img/fvtt.png' alt='Download para o Foundry VTT' class='fvtt-icon'></a>",
+
+    "image": "img/arbustoerrante.png",
+
+    "imgalt": "Ilustração de um Arbusto Errante",
+
+    "caption": "Arte por Christopher Burdett.",
+
+    "specs": {
+        "Conceito": "planta",
+        "Tamanho": "grande",
+        "Alinhamento": "neutro",
+        "Ambiente": "florestas, pântanos, subterrâneos"
+    },
+    
+    "Encontro": "0 (1d4)",
+    "Experiencia": "1.000XP",
+    "Tesouro": "B, O, (ESPECIAL)",
+    "Movimento": "6",
+    "DV": "8 [40]",
+    "CA": "19",
+    "JP": "11",
+    "MO": "12",
+
+    "ataques": "<li>2 &times; <b>golpes</b> + 9 (2d8)</li>",
+    
+    "summary": "<p><i>Ser vegetal que espreita em florestas tropicais, pântanos e regiões subterrâneas alagadas buscando os incautos para atacar.</i></p>",
+
+    "description": "",
+
+    "combat": "<p>Arbustos errantes tentarão surpreender suas vítimas, golpeando com massas de matéria vegetal semelhantes a braços.</p><ul><li><b>Abraço Gosmento</b>: uma vítima que sofra, na mesma rodada, golpes de ambos os braços do arbusto errante fica enroscada. Ela sufocará em 2d4 rodadas a menos que o arbusto seja morto ou ela consiga se libertar com um teste bem-sucedido de força.</li><li><b>Crescimento Antinatural</b>: devido &agrave;&nbsp;<i>resili&ecirc;ncia vegetal</i> (abaixo), arbustos errantes podem ter mais do que 8 DV, o que afeta tanto seus PV (+5 PV para cada +1 DV) quanto a XP que os aventureiros adquirem ao abat&ecirc;-lo (+350XP por +1 DV acima de 8,&nbsp;<i>exceto arbustos errantes que se fortifiquem durante uma luta com os PJs, que conceder&atilde;o a XP original</i>) e a BA (+2 por +1 DV).</li><li><b>Resiliência Vegetal</b>: o arbusto errante é imune a ataques impactantes e sofre apenas metade do dano de armas cortantes e perfurantes. Ele é imune a ataques com fogo (como a magia <i>bola de fogo</i>) e ataques com gelo (como a magia <i>esfera gélida</i>) causam metade do dano em caso de fracasso numa JP ou nenhum dano em caso de sucesso. Ataques com eletricidade (como a magia <i>relâmpago</i>) fazem o arbusto errante crescer 30 cm e ganhar 1DV adicional (por ataque elétrico).</li><li><b>Regeneração</b>: se o arbusto errante não for morto, mesmo que moribundo, ele vai se regenerar completamente em 12 horas, momento em que provavelmente estará furioso.</li></ul>",
+
+    "society": "<p>Arbustos errantes costumam viver em regiões de muita chuva e vegetação. Pântanos escuros e florestas tropicais são algumas de suas áreas favoritas, mas já se ouviu falar dessas criaturas atacando inesperadamente em regiões subterrâneas alagadas e úmidas. Por serem criaturas solitárias, é difícil encontrar mais de um arbusto errante em uma determinada área, a menos que haja fontes abundantes de comida, como perto de ruínas ou túneis abandonados.</p>",
+
+    "ecology": "<p>Arbustos errantes são aglomerados de massa vegetal animados que tem um centro nervoso de controle similar a um cérebro escondido nas profundezas de seu “tórax”. Decapitar, portanto, a criatura não a afeta em nada. Considerando que os “membros” do arbusto errante são amontoados de cipós, heras e fungos, cortá-los também pouco ajuda em atrasar a criatura. O restante da massa vegetal no “tronco” do arbusto errante não tardará em regenerar o membro cortado. O arbusto só vai morrer se seu oponente cortar massa vegetal o suficiente.</p>",
+
+    "variacoes": "",
+
+    "origem": "<p>Este monstro foi publicado originalmente no livro <i>Monstrous Compendium Volume II</i>, de 1993.</p>"
+}

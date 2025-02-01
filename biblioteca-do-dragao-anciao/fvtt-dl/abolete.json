@@ -1,0 +1,120 @@
+{
+  "name": "Abolete",
+  "type": "monster",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "odo_id": "",
+    "flavor": "Criatura anfíbia cujo hábitat são cavernas e lagos subterrâneos. Despreza a maioria das criaturas terrestres e procura escravizar os seres inteligentes da superfície. É tão cruel quanto inteligente.",
+    "concept": "Besta",
+    "size": "grande",
+    "alignment": "caotico",
+    "variant": false,
+    "description": "<div id=\"monsterCombat\">\n<ul>\n<li>Escravizar: pode tentar escravizar criaturas a at&eacute; 10 metros (3 tentativas/dia, 1 criatura/tentativa). Se a v&iacute;tima fracassar numa JPS, &eacute; escravizada telepaticamente pelo abolete. A escravid&atilde;o pode ser desfeita com as magias&nbsp;Remover Maldi&ccedil;&atilde;o&nbsp;e&nbsp;Dissipar Magia, se o abolete morrer ou se a v&iacute;tima se afastar a mais de 1,5 quil&ocirc;metro dele. Em qualquer uma dessas condi&ccedil;&otilde;es, o escravo dever&aacute; fazer uma nova JPS (uma tentativa por dia).</li>\n<li>Psiquismo: atrai suas v&iacute;timas por meio de magias como&nbsp;Ilus&atilde;o Melhorada,&nbsp;Ilus&atilde;o Permanmente,&nbsp;Miragem&nbsp;e&nbsp;Som Ilus&oacute;rio, as quais pode usar livremente.</li>\n<li>Muco: uma v&iacute;tima atingida por um tent&aacute;culo deve ser bem-sucedida numa JPS, ou sua pele se transformar&aacute; em uma membrana clara e mucosa depois de 1d4+1 rodadas, que precisar&aacute; ficar umedecida com &aacute;gua fria, ou o personagem sofrer&aacute; 1d12 pontos de dano por turno. Se&nbsp;Curar Doen&ccedil;as&nbsp;for lan&ccedil;ada sobre a v&iacute;tima antes do t&eacute;rmino da forma&ccedil;&atilde;o da membrana, a transforma&ccedil;&atilde;o cessar&aacute;. Al&eacute;m disso, lan&ccedil;ar&nbsp;Curar Ferimentos&nbsp;(de 3&ordm; c&iacute;rculo) far&aacute; com que a pele volte ao seu estado normal.</li>\n<li>Nuvem de Muco: quando submerso, o abolete se envolve numa n&eacute;voa viscosa de 30 cent&iacute;metros de espessura. Quem entrar em contato com a nuvem, inalando-a, dever&aacute; ser bem-sucedido numa JPC para resistir a veneno, ou perder&aacute; a habilidade de respirar ar. No entanto, a v&iacute;tima torna-se capaz de respirar &aacute;gua, como se tivesse bebido uma po&ccedil;&atilde;o de respirar na &aacute;gua, por 1&ndash;3 horas. Essa habilidade pode ser renovada atrav&eacute;s de um novo contato com a nuvem de muco. Se a v&iacute;tima infectada tentar respirar ar, ela vai sufocar em 2d6 rodadas. Vinho ou sopa dissolvem a nuvem.</li>\n</ul>\n</div>\n<h3>H&aacute;bitat/Sociedade</h3>\n<div id=\"monsterSociety\">\n<p>Uma fam&iacute;lia de aboletes consiste de um pai e 1&ndash;3 filhotes. Apesar do filhote ser t&atilde;o grande e forte quanto o pai, ele se submete ao chefe da fam&iacute;lia em tudo, obedecendo-o incondicionalmente.</p>\n<p>Eles possuem &oacute;rg&atilde;os masculinos e femininos, e reproduzem-se uma vez a cada 5 anos, escondendo-se em uma caverna ou outro local remoto, botando um &uacute;nico ovo e cobrindo-o com gosma. O embri&atilde;o cresce e se desenvolve, num processo que dura cerca de 5 anos. Um rec&eacute;m-nascido leva cerca de dez anos para atingir a idade adulta.</p>\n<p>O abolete passa a maior parte do seu tempo procurando escravos preferencialmente humanos, que ele utiliza escravos para construir imensas cidades submarinas, por&eacute;m n&atilde;o h&aacute; provas de que elas realmente existam. Dizem que o abolete conhece horr&iacute;veis segredos antigos, anteriores ao surgimento do homem, mas esses rumores tamb&eacute;m n&atilde;o foram comprovados cientificamente. Ao nascer, o filhote absorve todo o conhecimento do pai, e, adulto, adquire todas as informa&ccedil;&otilde;es conhecidas por qualquer criatura inteligente da qual se alimente. N&atilde;o h&aacute; d&uacute;vida de que essa criatura &eacute; uma impressionante fonte de conhecimentos.</p>\n<p>O tesouro de um abolete &eacute; composto pelos itens tomados de seus escravos. Esses itens s&atilde;o enterrados em cavernas sob uma camada de gosma semelhante &agrave; lama cinzenta, que pode ser reconhecida pelo asqueroso odor de gordura ran&ccedil;osa.</p>\n</div>\n<h3>Ecologia</h3>\n<div id=\"monsterEcology\">\n<p>Aboletes s&atilde;o on&iacute;voros e se alimentam de qualquer mat&eacute;ria org&acirc;nica, normalmente algas e micro-organismos; tamb&eacute;m comem presas inteligentes, pois, atrav&eacute;s delas, podem obter nutrientes e informa&ccedil;&otilde;es ao mesmo tempo. Eles n&atilde;o possuem inimigos naturais, e mesmo as mais poderosas criaturas marinhas os respeitam. Algumas vezes, sua gosma &eacute; usada como componente em&nbsp;po&ccedil;&otilde;es de respira&ccedil;&atilde;o na &aacute;gua.</p>\n</div>",
+    "described_attacks": "<ul id=\"monsterAtaques\">\n<li>4 &times;&nbsp;tent&aacute;culo + 9 (1d6)</li>\n</ul>",
+    "encounters": "0",
+    "encounters_lair": "1d4",
+    "xp": 830,
+    "treasure": "",
+    "treasure_lair": "f",
+    "mv": "3",
+    "mvc": "",
+    "mve": "",
+    "mvn": "12",
+    "mvv": "",
+    "mvo": "",
+    "dv": "8",
+    "dv_bonus": "",
+    "pv": "",
+    "ca": "15",
+    "jp": "11",
+    "mo": "10",
+    "url": "",
+    "habitat": "Subterrâneos",
+    "hp": {
+      "value": 40,
+      "max": 40
+    }
+  },
+  "prototypeToken": {
+    "name": "Abolete",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "exportSource": {
+      "world": "old-dragon-2",
+      "system": "olddragon2e",
+      "coreVersion": "11.315",
+      "systemVersion": "0.0.22"
+    }
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.22",
+    "coreVersion": "11.315",
+    "createdTime": 1704551467787,
+    "modifiedTime": 1704551650632,
+    "lastModifiedBy": "2Cvw5GqYPW2NCfmD"
+  }
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Olho Alado",
+
+    "fvtt": "<a href='./fvtt-dl/olho-alado.json' download><img src='./img/fvtt.png' alt='Download para o Foundry VTT' class='fvtt-icon'></a>",
+
+    "image": "img/olhoalado.jpg",
+
+    "imgalt": "Ilustração de um Olho Alado",
+
+    "caption": "Arte criada pelo <i>Microsoft Bing</i> e adaptada por mim.",
+
+    "specs": {
+        "Conceito": "besta",
+        "Tamanho": "grande",
+        "Alinhamento": "ordeiro",
+        "Ambiente": "extraplanar"
+    },
+    
+    "Encontro": "1d20",
+    "Experiencia": "155XP",
+    "Tesouro": "-",
+    "Movimento": "16V",
+    "DV": "3 [15]",
+    "CA": "15",
+    "JP": "6",
+    "MO": "9",
+
+    "ataques": "<li>3 &times; <b>garras e cauda</b> + 3 (1d6)</li><li>1 &times; <b>lágrima</b> + 3 (v. abaixo)</li>",
+    
+    "summary": "<p><i>Esses monstros habitam as profundezas dos planos malignos, e sua natureza estúpida, porém leal, faz deles os lacaios ideais para os deuses das trevas e seus servos mais poderosos.</i></p>",
+
+    "description": "",
+
+    "combat": "<p>O olho alado ataca de duas maneiras. A forma mais utilizada é atacar sua vítima com suas garras e cauda. Isso pode ser na forma de um voo rasante ou simplesmente pairando sobre o oponente e atacando. A outra forma se dá com suas lágrimas, que são compostas de uma substância venenosa. O olho alado vai “bombardear” seu inimigo com gotas de suas lágrimas.</p><ul><li><p><b>Lágrima Venenosa</b>: o olho alado pode, a partir de uma posição elevada, derrubar suas lágrimas sobre suas vítimas. Cada lágrima é uma bola de 30 cm de diâmetro de um fluido azul e venenoso. Uma jogada normal de ataque determina se o alvo conseguiu se esquivar da lágrima. Se, no entanto, a lágrima atingir o alvo, este deve fazer uma JPD. Em caso de fracasso, ele sofre 2d6 pontos de dano; se for bem-sucedido, sofrerá 1d6 pontos de dano. As lágrimas poderão respingar em qualquer criatura que esteja a até 3 metros do alvo, e a jogada de ataque para os respingos deve se jogada como um ataque difícil. Se os respingos acertarem alguém, essa pessoa deve fazer uma JPD. Se fracassar, sofre 2d4 pontos de dano; se, contudo, obtiver sucesso na JPD, sofrerá apenas 1d4 pontos de dano.</p>Após 2d6 horas de ter sido utilizada, a lágrima endurece na forma de um caroço emborrachado — o tempo exato para isso acontecer depende das condições do ambiente, como temperatura, umidade, etc. Se alguém tocar numa lágrima endurecida, a criatura deve ser bem-sucedida numa JPD ou sofrer 1 ponto de dano.</li><li><b>Imunidade ao Frio</b>: o olho alado é imune a quaisquer efeitos que dependam unicamente do frio para causar dano ou afetá-lo de qualquer outra maneira negativa.</li><li><b>Visão Telescópica</b>: olhos alados têm uma visão muito apurada e são capazes de enxergar perfeitamente a até 40 km de distância.</li><li><b>Infravisão</b>: 36 metros.</li></ul>",
+
+    "society": "<p>Os olhos alados existem unicamente para servir seus mestres demoníacos. Se deixados de lado sem ordens a cumprir, tornam-se preguiçosos e apáticos. Só que isso não os torna menos perigosos; a apatia não passa de tédio, e não há nada melhor para acabar com o tédio do que despadaçar criaturas incautas.</p>Essas criaturas não possuem nenhuma forma de sociedade ou cultura. Seu idioma consiste em guinchos estridentes que lembram morcegos. Apesar de serem capazes de compreender outros idiomas, eles próprios são incapazes de os falar. Eles só podem ser encontrados nas regiões dos planos malignos em que se pode voar.",
+
+    "ecology": "<p>Olhos alados são criaturas assexuadas e antinaturais. Eles matam até mesmo quando não recebe ordens para tal, simplesmente pelo prazer que o ato lhes traz. Acredita-se que eles não respiram, comem ou bebem, mas que são sustentados apenas por magia. As criaturas mais poderosas que habitam os planos malignos poderão se alimentar do ocasional olho alado, mas estes não são presa natural de nenhum outroser.</p>",
+
+    "variacoes": "",
+
+    "origem": "<p>Este monstro foi publicado originalmente no livro <i>Monstrous Compendium Volume IV - Dragonlance Appendix</i>, de 1989.</p>"
+}

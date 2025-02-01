@@ -1,0 +1,120 @@
+{
+  "name": "Dríade",
+  "type": "monster",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "odo_id": "",
+    "flavor": "Essas lindas donzelas são, na verdade, ninfas das florestas. São criaturas esquivas na mesma medida que sedutivas, e raramente são avistadas se não forem surpreendidas.",
+    "concept": "Humanoide",
+    "size": "medio",
+    "alignment": "neutro",
+    "variant": false,
+    "description": "<div id=\"monsterDescription\">\n<p class=\"dropcaps\">As fei&ccedil;&otilde;es belas, delicadas e finas das dr&iacute;ades s&atilde;o muito similares &agrave;s de donzelas &eacute;lficas. Dr&iacute;ades t&ecirc;m ma&ccedil;&atilde;s do rosto altas e olhos da cor &acirc;mbar, verde-escura ou violeta. A cor da pele e dos cabelos da dr&iacute;ade muda de acordo com a esta&ccedil;&atilde;o do ano, o que lhes confere uma camuflagem natural. No outono os cabelos da dr&iacute;ade assumem um tom dourado ou avermelhado e sua pele escurece para se adequar &agrave; cor dos cabelos. Isso permite que ela se camufle em meio &agrave;s folhas de outono, que caem de suas &aacute;rvores. No inverno, tanto seus cabelos quanto sua pele tornam-se brancos como a neve que cobra os bosques de carvalhos.Nessas duas &eacute;pocas do ano, as pessoas confundem as dr&iacute;ades com donzelas atraentes, talvez de origem &eacute;lfica. No entanto, isso n&atilde;o ocorreria na primavera ou no ver&atilde;o, quando sua pele &eacute; levemente bronzeada e seus cabelos, verdes como as folhas das &aacute;rvores &agrave; sua volta.</p>\n<p>Geralmente dr&iacute;ades vestem trajes simples e largos. Suas vestimentas geralmente tem a mesma cor dos bosques de carvalhos daquela determinada esta&ccedil;&atilde;o do ano. Elas falam um idioma pr&oacute;prio, bem como &eacute;lfico e a l&iacute;nguas de ninfas e pixies. Elas tamb&eacute;m s&atilde;o capazes de conversar com plantas.</p>\n</div>\n<h3 class=\"\">Combate</h3>\n<div id=\"monsterCombat\">\n<p>Dr&iacute;ades costumam ser t&iacute;midas e pac&iacute;ficas. Raramente portam armas al&eacute;m de uma faca, a qual usa como ferramenta. Embora a dr&iacute;ade possa utilizar essa arma numa luta, ela vai evitar isso a menos que se sinta muito amea&ccedil;ada. Numa situa&ccedil;&atilde;o de combate ela tentar&aacute; fazer uso da magia <em>Enfeiti&ccedil;ar Pessoas</em>&nbsp;na pessoa que seria mais &uacute;til para ela. Contudo, ela n&atilde;o usa essa magia apenas em situa&ccedil;&otilde;es de combate; sempre que uma dr&iacute;ade encontra um macho que tenha Carisma 16 ou superior, ela tentar&aacute; enfeiti&ccedil;&aacute;-lo. Se for bem-sucedida, ela vai lev&aacute;-lo para sua &aacute;rvore-lar com intuito de torn&aacute;-lo um escravo amoroso. H&aacute; uma chance de 1-3 em 1d6 de essa v&iacute;tima nunca mais voltar. Se conseguir, ser&aacute; somente ap&oacute;s 1d4 anos de cativeiro.</p>\n<ul>\n<li><strong>Magia</strong>: a dr&iacute;ade &eacute; capaz de lan&ccedil;ar <em>Enfeiti&ccedil;ar Pessoas</em>&nbsp;tr&ecirc;s vezes por dia (apenas uma vez por rodada). Como a magia &eacute; poderosa, a JPS realizada pela v&iacute;tima para resistir &eacute; dif&iacute;cil. Al&eacute;m disso, ela &eacute; capaz de lan&ccedil;ar <em>Porta Dimensional</em>&nbsp;em qualquer &aacute;rvore para se teleportar para sua &aacute;rvore-lar. Por fim, ela pode lan&ccedil;ar <em>Falar com Plantas</em>&nbsp;para rastrear ou perturbar grupos de pessoas.</li>\n</ul>\n</div>\n<h3 class=\"\">H&aacute;bitat/Sociedade</h3>\n<div id=\"monsterSociety\">\n<p>Reza a lenda que as dr&iacute;ades s&atilde;o, na verdade, as almas personificadas de carvalhos muito antigos. N&atilde;o se sabe at&eacute; que ponto isso &eacute; verdade; contudo, &eacute; fato que elas t&ecirc;m um elo com um &uacute;nico enorme carvalho durante suas vidas, al&eacute;m de serem incapazes de se afastar mais que 300 metros dessa &aacute;rvore. Se por acaso ela se afastar al&eacute;m disso, enfraquecer&aacute; e morrer&aacute; em 6d6 horas se n&atilde;o retornar &agrave; sua &aacute;rvore-lar. O carvalho de uma dr&iacute;ade n&atilde;o irradia magia, mas quem encontrar o lar de uma delas tem bastante controle sobre a ninfa: a dr&iacute;ade sofre dano junto com sua &aacute;rvore-lar. Ela defender&aacute; sua &aacute;rvore com unhas e dentes se algu&eacute;m atac&aacute;-la.</p>\n<p>Embora dr&iacute;ades sejam muito solit&aacute;rias, j&aacute; se encontrou at&eacute; seis delas em um determinado bosque. Isso, contudo, &eacute; bem raro. O que isso significa, na verdade, &eacute; que h&aacute; v&aacute;rios carvalhos de dr&iacute;ade perto uns dos outros. Essas dr&iacute;ades podem socorrer suas semelhantes, mas nunca se reunir&atilde;o por qualquer outro motivo. Tesouros possu&iacute;dos por essas ninfas dos bosques geralmente s&atilde;o guardados escondidos, pr&oacute;ximos &agrave; sua &aacute;rvore-lar. O ouro e as gemas que comp&otilde;em o tesouro de uma dr&iacute;ade quase sempre s&atilde;o presentes de aventureiros enfeiti&ccedil;ados.</p>\nAs dr&iacute;ades sabem que humanos e semi humanos as temem por conta de sua magia&nbsp;<em>Enfeiti&ccedil;ar Pessoas</em>, ent&atilde;o elas raramente interagem com estranhos. Se abordadas com cuidado, entretanto, as dr&iacute;ades geralmente ajudam aventureiros. Elas tamb&eacute;m s&atilde;o boas fontes de informa&ccedil;&otilde;es, j&aacute; que sabem muita coisa sobre a &aacute;rea em que vivem.</div>\n<h3 class=\"\">Ecologia</h3>\n<div id=\"monsterEcology\">\n<p>Dr&iacute;ades s&atilde;o protetoras das florestas e bosques em que habitam. Quaisquer a&ccedil;&otilde;es que prejudiquem a regi&atilde;o, particularmente vegetais, n&atilde;o ser&atilde;o bem vistas pela ninfa.</p>\n</div>",
+    "described_attacks": "<ul id=\"monsterAtaques\" class=\"monsterAtk\">\n<li>1 &times;&nbsp;<strong>faca</strong> (1d4)</li>\n</ul>",
+    "encounters": "1 ou 1d6",
+    "encounters_lair": "",
+    "xp": 80,
+    "treasure": "s, l",
+    "treasure_lair": "",
+    "mv": "9",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "2",
+    "dv_bonus": "",
+    "pv": "",
+    "ca": "0",
+    "jp": "6",
+    "mo": "9",
+    "url": "",
+    "habitat": "Florestas",
+    "hp": {
+      "value": 10,
+      "max": 10
+    }
+  },
+  "prototypeToken": {
+    "name": "Dríade",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "exportSource": {
+      "world": "old-dragon-2",
+      "system": "olddragon2e",
+      "coreVersion": "11.315",
+      "systemVersion": "0.0.22"
+    }
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.22",
+    "coreVersion": "11.315",
+    "createdTime": 1704576582800,
+    "modifiedTime": 1704576850613,
+    "lastModifiedBy": "2Cvw5GqYPW2NCfmD"
+  }
+}

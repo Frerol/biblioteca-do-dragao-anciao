@@ -1,0 +1,11 @@
+{
+  "name": "Augúrio",
+  "tipo": "Divina",
+  "circulo": 2,
+  "reverseForm": false,
+  "alcance": "0",
+  "duracao": "especial",
+  "jp": "nenhuma",
+  "descricao": "O clérigo que lança a magia Augúrio questiona o deus a quem ele serve se uma ação a ser tomada no futuro imediato (até 30 minutos no futuro) ajudará ou prejudicará o grupo. Por exemplo, se houver um grupo de aventureiros que está considerando se deve destruir um determinado selo mágico que fechará um portal, eles podem fazer uso da magia Augúrio para descobrir se o resultado será bom ou ruim. Se a magia for bem-sucedida, o Mestre fornecerá alguma indicação do resultado provável: “bom”, “mau” ou talvez um quebra-cabeças ou rima misteriosos. Há uma chance de 1-4 em 1d6 de a resposta ser clara. Por exemplo, se um grupo deseja saber se explorar uma determinada caverna lhes será proveitoso, e, no entanto, há um troll (o qual o Mestre julga que o grupo seria capaz de derrotar depois de uma luta difícil) protegendo os inestimáveis tesouros daquela caverna, a magia pode fornecer uma resposta como “sem dor não há recompensa”; contudo, se o troll for forte demais para o grupo, a resposta poderia ser “o caminho leva à perdição”. Além disso, se o grupo tenta lançar várias vezes a magia Augúrio perguntando a mesma coisa, receberá respostas idênticas, independentemente dos resultados subsequentes nos dados.",
+  "origem": "<p style='font-size:12px'><i>Esta magia foi publicada originalmente no livro </i>Player's Handbook<i>, de 1989.</i></p>"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Sugestão",
+    "tipo": "Arcana",
+    "circulo": 3,
+    "reverseForm": false,
+    "alcance": "30 metros",    
+    "duracao": "1h + 1h/nível",
+    "jp": "JPS nega",
+    "descricao": "Quando esta magia é lançada pelo mago, ela influencia as ações do alvo escolhido falando algumas palavras — uma ou duas frases — sugerindo um curso de ação desejável para o conjurador. A criatura a ser influenciada deve, é claro, ser capaz de entender a sugestão do mago — ela deve ser falada em um idioma que o destinatário da magia entenda.</p><p>A sugestão deve ser formulada de forma a fazer com que a ação pareça razoável; pedir à criatura para se esfaquear, atirar-se em uma lança, imolar-se ou fazer algum outro ato obviamente prejudicial anula automaticamente o efeito do feitiço.</p><p>No entanto, a sugestão de que uma poça de ácido é, na verdade, água pura e que um mergulho rápido seria refrescante é outro caso. Incentivar um dragão vermelho a parar de atacar o grupo do mago para que o dragão e o grupo possam saquear juntos um rico tesouro em outro lugar também é um uso razoável do poder do feitiço.</p><p>O curso de ação de uma sugestão pode continuar em vigor por um período considerável, como no caso do dragão vermelho mencionado acima.</p><p>As condições que desencadearão uma ação especial também podem ser especificadas; se a condição não for atendida antes do feitiço expirar, a ação não será executada.</p><p>Se o alvo obtiver sucesso na jogada de proteção, o feitiço não surtirá efeito.</p><p>Observe que uma sugestão bastante razoável faz com que a jogada de proteção seja feita com uma penalidade (como -1, -2, etc.) a critério do Mestre.</p><p>Mortos-vivos não podem ser afetados por sugestão.",
+    "origem": "<p style='font-size:12px'><i>Esta magia foi publicada originalmente no livro </i>Player's Handbook<i>, de 1989.</i></p>"
+}

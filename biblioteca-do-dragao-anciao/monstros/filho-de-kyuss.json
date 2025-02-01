@@ -1,0 +1,43 @@
+{
+    "name": "Filho de Kyuss",
+
+    "fvtt": "<a href='./fvtt-dl/filho-de-kyuss.json' download><img src='./img/fvtt.png' alt='Download para o Foundry VTT' class='fvtt-icon'></a>",
+
+    "image": "img/filhodekyuss.jpg",
+
+    "imgalt": "Ilustração de um Filho de Kyuss",
+
+    "caption": "Arte por Don Turnbull.",
+
+    "specs": {
+        "Conceito": "morto-vivo",
+        "Tamanho": "médio",
+        "Alinhamento": "caótico",
+        "Ambiente": "subterrâneos"
+    },
+    
+    "Encontro": "1d3",
+    "Experiencia": "200XP",
+    "Tesouro": "L",
+    "Movimento": "8",
+    "DV": "4 [20]",
+    "CA": "9",
+    "JP": "7",
+    "MO": "11",
+
+    "ataques": "<li>1 &times; <b>pancada</b> + 4 (1d8)</li>",
+    
+    "summary": "<p><i>Essas criaturas hediondas, profanas e putrefatas, muito parecidas com zumbis, convertem suas vítimas incautas em mortos-vivos amaldiçoados.</i></p>",
+
+    "description": "<p class='dropcaps'>Filhos de Kyuss, mortos-vivos horripilantes amaldiçoados criados originalmente pelo deus sombrio Kyuss, se assemelham a zumbis se vistos de longe (chance de 1-3 em 1d4 de quem vê um deles ao longe pensar que se trata de um zumbi comum). Seus ossos à mostra possuem carne putrefata pendurada a eles, e seus crânios, que não possuem mais pele, têm tufos de cabelo ou fungos. Vermes esverdeados se contorcem no interior de seus crânios malditos, e podem ser vistos rastejando para dentro e para fora dos orifícios escuros das caveiras dessas criaturas. Um odor putrefato cerca os Filho de Kyuss. Apesar de geralmente utilizarem trapos carcomidos pelo tempo, Filhos de Kyuss convertidos há pouco tempo estarão usando roupas melhor conservadas.</p><p>Os Filhos de Kyuss espreitam ruínas e masmorras em grupos de dois ou três, em busca de vítimas. Eles atacam sem cessar, usando sua aura de medo para dispersar as vítimas e caçá-las uma por uma.</p>",
+
+    "combat": "<p></p><ul><li><b>Aura de Medo</b>: aura com diâmetro de 9 metros. Personagens que adentrarem essa aura deverão ser bem-sucedidos numa JPS ou fugirem aterrorizados. Aqueles que fogem tem chance de 1-4 em 1d6 de largarem o que estiverem segurando.</li><li><b>Dádiva de Kyuss</b>: se o Filho de Kyuss acertar uma pancada, há uma chance de 1 em 1d4 de a vítima contrair uma doença (resistida por uma JPC) de deterioração. A doença é fatal após 1d6 meses. As vítimas perdem <i>permanentemente</i>, a cada mês transcorrido, 2 pontos de Carisma. Somente a magia <i>Curar Doenças</i> pode remover essa enfermidade. Quem sofre da Dádiva de Kyuss não pode ser curado com <i>Curar Ferimentos</i> e se regenera a 10% do ritmo usual.</li><li><b>Inabalável</b>: mortos-vivos não fazem testes de moral a não ser quando sofrem o efeito de um Afastar Mortos-Vivos.</li><li><b>Morto-vivo</b>: imune a magias mentais de manipulação, controle ou ilusão, ou demais formas mágicas de interferir na mente de seres vivos. Sofre 1d6 de dano ácido por frasco de água benta.</li><li><b>Regeneração Profana</b>: regenera 2 PV por rodada. Membros amputados também vão regenerar. Filhos de Kyuss que tenham os PV reduzidos a 0 ou menos cairão como mortos, mas continuarão se regenerando, e vão se levantar assim que chegarem a 1 PV.</li><li><b>Verme de Kyuss</b>: como ação livre durante um ataque, o Filho de Kyuss pode tentar transferir um de seus vermes para seu alvo. Isso consiste num ataque como o da pancada normal, porém ao invés do dano, o verme se prende à cabeça da vítima. Se ele não for morto, seja pelo toque de ferro frio, água benta ou um objeto sagrado, ele penetrará a pele na rodada seguinte, quando, então, levará 1d4 rodadas para alcançar o cérebro. Nesse período, <i>Curar Doenças</i> e <i>Remover Maldição</i> matarão o verme, e <i>Neutralizar Veneno</i> e <i>Dissipar o Caos</i> vão atrasar o verme em 1d6 turnos. Se o verme chegar até o cérebro, a vítima morre imediatamente, tornando-se um Filho de Kyuss, e a deterioração e a putrefação não tardarão em seguir.</li><li><b>Vulnerabilidade</b>: dano causado por ataques de ácido, fogo, eletricidade, bem como por água benta ou pelo toque de um símbolo sagrado, não será regenerado. Além disso, se alguém lançar <i>Curar Doenças</i> ou <i>Remover Maldição</i> num Filho de Kyuss, ele vai se tornar um zumbi normal (v. LB1 pág. 178).</li></ul>",
+
+    "society": "<p>Kyuss foi um sacerdote maligno que criou os primeiros Filhos de Kyuss através do uso de uma certa maldição, a mando de um deus perverso. Desde então, o número dessas criaturas só se multiplicou.</p><p>Os Filhos de Kyuss são completamente imprevisíveis. Suas perambulações são totalmente aleatórias; alguns espreitam as masmorras ou ruínas onde morreram, outros se escondem em criptas, e alguns poucos vagueiam à luz do dia, atacando vilarejos e outros assentamentos sem hesitação.</p><p>Há boatos de que clérigos malignos de alto nível às vezes usam os Filhos de Kyuss para espalhar o terror, prometendo a eles o descanso eterno em troca da cooperação.</p>",
+
+    "ecology": "<p>É fato que os vermes estão ligados ao corpo dos Filhos de Kyuss, mas ninguém sabe exatamente como. É sabido que os vermes são incapazes de sobreviver fora do corpo de um Filho de Kyuss ou de uma vítima. Os vermes que não conseguem se alojar no crânio de uma vítima morrem assim que caem no chão. Qualquer verme que seja retirado do corpo de um Filho de Kyuss morre após uma rodada longe do hospedeiro original. Quando um Filho de Kyuss é destruído (ou seja, é morto permanentemente) seus vermes morrem junto com ele. Alguns sábios já teorizaram que os vermes na verdade não são criaturas vivas, mas encarnações da maldição.</p>Os Filhos de Kyuss não guardam tesouro, mas as masmorras que eles habitam às vezes contêm itens derrubados por vítimas que fugiram ou morreram. Alguns Filhos de Kyuss ainda carregam consigo itens preciosos que tinham quando foram transformados.",
+
+    "variacoes": "",
+
+    "origem": "<p>Este monstro foi publicado originalmente no livro <i>Monstrous Compendium Volume V - Greyhawk Appendix</i>, de 1989.</p>"
+}

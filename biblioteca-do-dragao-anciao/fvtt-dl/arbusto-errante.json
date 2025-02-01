@@ -1,0 +1,120 @@
+{
+  "name": "Arbusto Errante",
+  "type": "monster",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "odo_id": "",
+    "flavor": "Ser vegetal que espreita em pântanos e regiões subterrâneas alagadas buscando os incautos para atacar.",
+    "concept": "Planta",
+    "size": "grande",
+    "alignment": "neutro",
+    "variant": false,
+    "description": "<h3>Combate</h3>\n<div id=\"monsterCombat\">\n<p>Arbustos errantes tentar&atilde;o surpreender suas v&iacute;timas, golpeando com massas de mat&eacute;ria vegetal semelhantes a bra&ccedil;os.&nbsp;</p>\n<ul>\n<li><strong>Abra&ccedil;o Gosmento</strong>: uma v&iacute;tima que sofra, na mesma rodada, golpes de ambos os bra&ccedil;os do arbusto errante fica enroscada. Ela sufocar&aacute; em 2d4 rodadas a menos que o arbusto seja morto ou ela consiga se libertar com um teste bem-sucedido de for&ccedil;a.</li>\n<li><strong>Crescimento Antinatural</strong>: devido &agrave;&nbsp;<em>resili&ecirc;ncia vegetal</em> (abaixo), arbustos errantes podem ter mais do que 8 DV, o que afeta tanto seus PV (+5 PV para cada +1 DV) quanto a XP que os aventureiros adquirem ao abat&ecirc;-lo (+350XP por +1 DV acima de 8,&nbsp;<em>exceto arbustos errantes que se fortifiquem durante uma luta com os PJs, que conceder&atilde;o a XP original</em>) e a BA (+2 por +1 DV).</li>\n<li><strong>Resili&ecirc;ncia Vegetal</strong>: o arbusto errante &eacute; imune a ataques impactantes e sofre apenas metade do dano de armas cortantes e perfurantes. Ele &eacute; imune a ataques com fogo (como a magia&nbsp;bola de fogo) e ataques com gelo (como a magia&nbsp;esfera g&eacute;lida) causam metade do dano em caso de fracasso numa JP ou nenhum dano em caso de sucesso. Ataques com eletricidade (como a magia&nbsp;rel&acirc;mpago) fazem o arbusto errante crescer 30 cm e ganhar 1DV adicional (por ataque el&eacute;trico).</li>\n<li><strong>Regenera&ccedil;&atilde;o</strong>: se o arbusto errante n&atilde;o for morto, mesmo que moribundo, ele vai se regenerar completamente em 12 horas, momento em que provavelmente estar&aacute; furioso.</li>\n</ul>\n</div>\n<h3>H&aacute;bitat/Sociedade</h3>\n<div id=\"monsterSociety\">\n<p>Arbustos errantes costumam viver em regi&otilde;es de muita chuva e vegeta&ccedil;&atilde;o. P&acirc;ntanos escuros e florestas tropicais s&atilde;o algumas de suas &aacute;reas favoritas, mas j&aacute; se ouviu falar dessas criaturas atacando inesperadamente em regi&otilde;es subterr&acirc;neas alagadas e &uacute;midas. Por serem criaturas solit&aacute;rias, &eacute; dif&iacute;cil encontrar mais de um arbusto errante em uma determinada &aacute;rea, a menos que haja fontes abundantes de comida, como perto de ru&iacute;nas ou t&uacute;neis abandonados.</p>\n</div>\n<h3>Ecologia</h3>\n<div id=\"monsterEcology\">\n<p>Arbustos errantes s&atilde;o aglomerados de massa vegetal animados que tem um centro nervoso de controle similar a um c&eacute;rebro escondido nas profundezas de seu &ldquo;t&oacute;rax&rdquo;. Decapitar, portanto, a criatura n&atilde;o a afeta em nada. Considerando que os &ldquo;membros&rdquo; do arbusto errante s&atilde;o amontoados de cip&oacute;s, heras e fungos, cort&aacute;-los tamb&eacute;m pouco ajuda em atrasar a criatura. O restante da massa vegetal no &ldquo;tronco&rdquo; do arbusto errante n&atilde;o tardar&aacute; em regenerar o membro cortado. O arbusto s&oacute; vai morrer se seu oponente cortar massa vegetal o suficiente.</p>\n</div>",
+    "described_attacks": "<ul id=\"monsterAtaques\">\n<li>2 &times;&nbsp;<strong>golpes</strong> + 9 (2d8) (+2 adicional a cada DV extra)</li>\n</ul>",
+    "encounters": "1d3",
+    "encounters_lair": "",
+    "xp": 1000,
+    "treasure": "b, o",
+    "treasure_lair": "especial",
+    "mv": "6",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "8",
+    "dv_bonus": "",
+    "pv": "",
+    "ca": "19",
+    "jp": "11",
+    "mo": "12",
+    "url": "",
+    "habitat": "Pântanos, Subterrâneos",
+    "hp": {
+      "value": 40,
+      "max": 40
+    }
+  },
+  "prototypeToken": {
+    "name": "Arbusto Errante",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "exportSource": {
+      "world": "old-dragon-2",
+      "system": "olddragon2e",
+      "coreVersion": "11.315",
+      "systemVersion": "0.0.22"
+    }
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.22",
+    "coreVersion": "11.315",
+    "createdTime": 1704574383339,
+    "modifiedTime": 1704575727202,
+    "lastModifiedBy": "2Cvw5GqYPW2NCfmD"
+  }
+}

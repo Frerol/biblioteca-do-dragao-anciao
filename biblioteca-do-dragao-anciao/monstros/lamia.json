@@ -1,0 +1,43 @@
+{
+    "name": "Lâmia",
+
+    "fvtt": "<a href='./fvtt-dl/lamia.zip' download><img src='./img/fvtt.png' alt='Download para o Foundry VTT' class='fvtt-icon'></a>",
+
+    "image": "img/lamia.png",
+
+    "imgalt": "Ilustração de uma Lâmia",
+
+    "caption": "Arte por Alex Mitchell.",
+
+    "specs": {
+        "Conceito": "besta",
+        "Tamanho": "médio",
+        "Alinhamento": "caótico",
+        "Ambiente": "desertos e subterrâneos"
+    },
+    
+    "Encontro": "1",
+    "Experiencia": "1.075XP",
+    "Tesouro": "D",
+    "Movimento": "16",
+    "DV": "9 [45]",
+    "CA": "16",
+    "JP": "12",
+    "MO": "10",
+
+    "ataques": "<li>1 &times; <b>arma</b> + 10 (arma + 1)</li>",
+    
+    "summary": "<p><i>Essas criaturas monstruosas são mulheres da cintura para cima e feras da cintura para baixo. Usam dissimulação, uma velocidade mortífera e feitiços para ludibriar o aventureiro incauto que tiver o azar de perambular por seu território.</i></p>",
+
+    "description": "",
+
+    "combat": "<ul><li><b>Drenar Sabedoria</b>: o toque da lâmia drena permanentemente 1 ponto de Sabedoria de sua vítima. Se a Sabedoria de uma mesma vítima cair para menos de 3 pontos, ela obedecerá tudo que a lâmia lhe ordenar, o que inclui atacar os próprios companheiros. Se tiver oportunidade, a lâmia drenará a Sabedoria de várias vítimas ao mesmo tempo, podendo até mesmo usar a magia <i>enfeitiçar</i> para complementar essa habilidade.</li><li><b>Magia</b>: lâmias podem conjurar as seguintes magias como se fossem do 9º círculo (cada uma delas <i>uma vez por dia</i>): <i>enfeitiçar pessoas</i>, <i>reflexos</i>, <i>sugestão</i> e <i>ilusão</i>.</li></ul>",
+
+    "society": "<p>As lâmias habitam em ruínas e cavernas situadas em regiões áridas. Essas criaturas malévolas são solitárias e se alimentam da carne de quem se aproximar demais de seu território. Se não houver carne de humanos ou semi-humanos, elas vão caçar animais. Geralmente não se afastam mais do que 15 quilômetros de seu território.</p>",
+
+    "ecology": "<p>Lâmias são criaturas lendárias que protegem lugares ocultos ou objetos de poder. São devotas em espalhar maldade e caos onde habitam.</p><p></p>",
+
+    "variacoes": "<h3>Variações</h3><hr><div id='flex1'><h4 class='variacao-nome'>Lâmia Nobre</h4><p class='variacao-xp'>D [1.825xp]</p></div><hr><div id='flex2'><p><b>DV</b><br>11</p><p><b>CA</b><br>15</p><p><b>JP</b><br>13</p><p><b>MV</b><br>8</p><p><b>MO</b><br>10</p></div><hr><li class='monsterAtk' style='margin: 0 1em'>1 &times; <b>arma</b> + 10 (arma + 2)</li><hr><p>As lâmias nobres geralmente comandam as lâmias inferiores e governam as regiões selvagens e solitárias em que habitam. Sua aparência, diferentemente das lâmias comuns, é a de um homem ou mulher da cintura para cima e de uma serpente gigante da cintura para baixo. Dizem que as lâmias normais nascem da união entre duas lâmias nobres.</p><p>As lâmias nobres macho empunham espadas curtas e as fêmeas, por serem mais habilidosas com as artes mágicas, não usam armas. Além disso, as lâmias nobres também podem utilizar Drenar Sabedoria.</p><ul><li><b>Drenar Sabedoria</b>: o toque da lâmia drena permanentemente 1 ponto de Sabedoria de sua vítima. Se a Sabedoria de uma mesma vítima cair para menos de 3 pontos, ela obedecerá tudo que a lâmia lhe ordenar, o que inclui atacar os próprios companheiros. Se tiver oportunidade, a lâmia drenará a Sabedoria de várias vítimas ao mesmo tempo, podendo até mesmo usar a magia <i>enfeitiçar</i> para complementar essa habilidade.</li><li><b>Magia</b>: lâmias nobres macho podem lançar magias como um Mago de nível 1d8. Já as fêmeas podem lançar magias como um Mago de nível 2d6+2. As magias individuais ficam a critério do Mestre. Essas magias podem ser lançadas <i>além</i> daquelas que a lâmia comum podem lançar.</li><li><b>Metamorfose</b>: lâmias nobres são capazes de assumir a forma humana. Personagens do 7º nível têm 5% de chance (1-5 em 1d100) de identificar uma lâmia em forma humana, e essa chance aumenta em 5% por nível acima do 7º. Clérigos e Paladinos tem 15% a mais de chance de identificá-las (p.ex.: um clérigo de 10º nível teria 35% de chance, isto é, 1-35 em 1d100, de identificar a lâmia nobre).</li></ul>",
+
+    "origem": "<p>Este monstro foi publicado originalmente no livro <i>Monstrous Compendium Volume II</i>, de 1993.</p>"
+}

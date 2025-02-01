@@ -1,0 +1,11 @@
+{
+  "name": "Manipular Moral",
+  "tipo": "Divina",
+  "circulo": 1,
+  "reverseForm": false,
+  "alcance": "especial",
+  "duracao": "especial",
+  "jp": "nenhuma",
+  "descricao": "Este feitiço pode ser usado de duas maneiras distintas. O primeiro é apropriado para uso no campo de batalha.</p><p>O clérigo pode conjurar este feitiço em qualquer criatura num raio de 144 metros em uma linha de visão ininterrupta. O tempo de conjuraçao para esta magia é de um turno.</p><p>Na conclusão deste uso do feitiço, o moral da criatura alvo é modificado em 1, seja positiva ou negativamente, conforme o conjurador desejar. Essa modificação permanece em vigor por 1d4+2 turnos.</p><p>O segundo e mais poderoso uso do feitiço requer preparativos demorados. A conjuração deve ocorrer 60 metros ou menos de um local de culto dedicado à divindade do clérigo conjurador. Tanto ele quanto a criatura a ser afetada devem estar presentes. O tempo de conjuração para esta forma de uso é de 5 turnos.</p><p>Ao final dessa conjuração, o moral da criatura aumenta em 3 (máximo de 19). Esse aumento de moral dura até o próximo pôr do sol. Somente clérigos de 10º nível ou superior podem lançar esta versão do feitiço.",
+  "origem": "<p style='font-size:12px'><i>Esta magia foi publicada originalmente no livro </i>Tome of Magic<i>, de 1991.</i></p>"
+}

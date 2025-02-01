@@ -1,0 +1,32 @@
+{
+    "monster": [
+      {
+        "name": "Abolete",
+        "dataFile": "abolete.json"
+      },
+      {
+        "name": "Arbusto Errante",
+        "dataFile": "arbusto-errante.json"
+      },
+      {
+        "name": "Beemote",
+        "dataFile": "beemote.json"
+      },
+      {
+        "name": "Dríade",
+        "dataFile": "driade.json"
+      },
+      {
+        "name": "Filho de Kyuss",
+        "dataFile": "filho-de-kyuss.json"
+      },
+      {
+        "name": "Lâmia",
+        "dataFile": "lamia.json"
+      },
+      {
+        "name": "Olho Alado",
+        "dataFile": "olho-alado.json"
+      }
+    ]
+}

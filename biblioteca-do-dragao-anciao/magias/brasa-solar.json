@@ -1,0 +1,11 @@
+{
+  "name": "Brasa Solar",
+  "tipo": "Divina",
+  "circulo": 1,
+  "reverseForm": false,
+  "alcance": "24 metros",
+  "duracao": "instantânea",
+  "jp": "JPD nega",
+  "descricao": "Este feitiço cria um raio brilhante de calor escaldante que desce do céu para atingir um alvo à escolha do conjurador. A vítima tem direito a uma JPD para evitar o raio — um teste bem-sucedido indica que o raio não acerta o alvo.</p><p>Qualquer criatura atingida pelo raio sofre 1d6 pontos de dano, mais 1 ponto por nível do conjurador. Criaturas mortas-vivas e monstros vulneráveis a luz forte sofrem 1d6 pontos de dano, mais 2 pontos por nível do conjurador. Além de sofrerem dano, as vítimas vivas também ficam cegas por 1d4 rodadas por causa do feitiço.</p><p>O sol deve estar no céu quando Brasa Solar for conjurado, ou o feitiço falhará completamente. Não pode ser lançado no subterrâneo, em ambientes fechados ou à noite, embora nuvens não impeçam a Brasa Solar.",
+  "origem": "<p style='font-size:12px'><i>Esta magia foi publicada originalmente no livro </i>Player's Option: Spells & Magic<i>, de 1996.</i></p>"
+}

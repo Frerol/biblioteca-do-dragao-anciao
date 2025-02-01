@@ -1,0 +1,11 @@
+{
+  "name": "Causar Cegueira ou Surdez",
+  "tipo": "Divina",
+  "circulo": 3,
+  "reverseForm": true,
+  "alcance": "toque",
+  "duracao": "permanente",
+  "jp": "especial",
+  "descricao": "Ao lançar esta, magia, e necessário que o clérigo toque (isto é, seja bem-sucedido numa jogada de ataque) a vítima. Se esta for bem-sucedida numa JPD, o efeito é anulado; contudo, se fracassar, o resultado é uma cegueira ou surdez mágica que não causa dano. Uma criatura surda só pode reagir àquilo que vê ou sente, e sofre -1 de penalidade a testes de surpresa (p.ex., se normalmente fosse necessário 1-3 em 1d6 para a vítima ser supreendida, agora será necessário 1-4 em 1d6) e -1 de penalidade em sua iniciativa. Além disso, conjuradores terão uma chance de 1 em 1d6 de falharem ao lançar qualquer magia (o conjurador deve <i>falar</i> palavras mágicas ao lançar magias). Já no caso de uma criatura cega, todos os seus ataques são muito difíceis, e sua CA sofre a mesma penalidade, isto é, -5. Seus testes de iniciativa sofrem penalidade de -2. Em sua versão reversa, Curar Cegueira ou Surdez, ao tocar uma criatura, o clérigo lançando a magia consegue curar permanentemente algumas formas de cegueira ou surdez. Contudo, a magia é incapaz de restaurar ou sarar órgãos de audição ou visão danificados por ferimento ou doença.",
+  "origem": "<p style='font-size:12px'><i>Esta magia foi publicada originalmente no livro </i>Player's Handbook<i>, de 1989.</i></p>"
+}

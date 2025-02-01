@@ -1,0 +1,12 @@
+{
+  "spells": [
+    "augurio.json",
+    "causar-cegueira-ou-surdez.json",
+    "curar-cegueira-ou-surdez.json",
+    "brasa-solar.json",
+    "manipular-moral.json",
+    "punho-de-pedra.json",
+    "sugestao.json",
+    "surdez.json"
+  ]
+}

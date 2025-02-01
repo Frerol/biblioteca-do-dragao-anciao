@@ -1,0 +1,120 @@
+{
+  "name": "Filho de Kyuss",
+  "type": "monster",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "odo_id": "",
+    "flavor": "Essas criaturas hediondas, profanas e putrefatas, muito parecidas com zumbis, convertem suas vítimas incautas em mortos-vivos amaldiçoados.",
+    "concept": "Morto-Vivo",
+    "size": "medio",
+    "alignment": "caotico",
+    "variant": false,
+    "description": "<div id=\"monsterDescription\">\n<p class=\"dropcaps\">Filhos de Kyuss, mortos-vivos horripilantes amaldi&ccedil;oados criados originalmente pelo deus sombrio Kyuss, se assemelham a zumbis se vistos de longe (chance de 1-3 em 1d4 de quem v&ecirc; um deles ao longe pensar que se trata de um zumbi comum). Seus ossos &agrave; mostra possuem carne putrefata pendurada a eles, e seus cr&acirc;nios, que n&atilde;o possuem mais pele, t&ecirc;m tufos de cabelo ou fungos. Vermes esverdeados se contorcem no interior de seus cr&acirc;nios malditos, e podem ser vistos rastejando para dentro e para fora dos orif&iacute;cios escuros das caveiras dessas criaturas. Um odor putrefato cerca os Filho de Kyuss. Apesar de geralmente utilizarem trapos carcomidos pelo tempo, Filhos de Kyuss convertidos h&aacute; pouco tempo estar&atilde;o usando roupas melhor conservadas.</p>\n<p>Os Filhos de Kyuss espreitam ru&iacute;nas e masmorras em grupos de dois ou tr&ecirc;s, em busca de v&iacute;timas. Eles atacam sem cessar, usando sua aura de medo para dispersar as v&iacute;timas e ca&ccedil;&aacute;-las uma por uma.</p>\n</div>\n<h3 class=\"\">Combate</h3>\n<div id=\"monsterCombat\">\n<ul>\n<li><strong>Aura de Medo</strong>: aura com di&acirc;metro de 9 metros. Personagens que adentrarem essa aura dever&atilde;o ser bem-sucedidos numa JPS ou fugirem aterrorizados. Aqueles que fogem tem chance de 1-4 em 1d6 de largarem o que estiverem segurando.</li>\n<li><strong>D&aacute;diva de Kyuss</strong>: se o Filho de Kyuss acertar uma pancada, h&aacute; uma chance de 1 em 1d4 de a v&iacute;tima contrair uma doen&ccedil;a (resistida por uma JPC) de deteriora&ccedil;&atilde;o. A doen&ccedil;a &eacute; fatal ap&oacute;s 1d6 meses. As v&iacute;timas perdem&nbsp;<em>permanentemente</em>, a cada m&ecirc;s transcorrido, 2 pontos de Carisma. Somente a magia&nbsp;<em>Curar Doen&ccedil;as</em>&nbsp;pode remover essa enfermidade. Quem sofre da D&aacute;diva de Kyuss n&atilde;o pode ser curado com&nbsp;<em>Curar Ferimentos</em>&nbsp;e se regenera a 10% do ritmo usual.</li>\n<li><strong>Inabal&aacute;vel</strong>: mortos-vivos n&atilde;o fazem testes de moral a n&atilde;o ser quando sofrem o efeito de um Afastar Mortos-Vivos.</li>\n<li><strong>Morto-vivo</strong>: imune a magias mentais de manipula&ccedil;&atilde;o, controle ou ilus&atilde;o, ou demais formas m&aacute;gicas de interferir na mente de seres vivos. Sofre 1d6 de dano &aacute;cido por frasco de &aacute;gua benta.</li>\n<li><strong>Regenera&ccedil;&atilde;o Profana</strong>: regenera 2 PV por rodada. Membros amputados tamb&eacute;m v&atilde;o regenerar. Filhos de Kyuss que tenham os PV reduzidos a 0 ou menos cair&atilde;o como mortos, mas continuar&atilde;o se regenerando, e v&atilde;o se levantar assim que chegarem a 1 PV.</li>\n<li><strong>Verme de Kyuss</strong>: como a&ccedil;&atilde;o livre durante um ataque, o Filho de Kyuss pode tentar transferir um de seus vermes para seu alvo. Isso consiste num ataque como o da pancada normal, por&eacute;m ao inv&eacute;s do dano, o verme se prende &agrave; cabe&ccedil;a da v&iacute;tima. Se ele n&atilde;o for morto, seja pelo toque de ferro frio, &aacute;gua benta ou um objeto sagrado, ele penetrar&aacute; a pele na rodada seguinte, quando, ent&atilde;o, levar&aacute; 1d4 rodadas para alcan&ccedil;ar o c&eacute;rebro. Nesse per&iacute;odo,&nbsp;<em>Curar Doen&ccedil;as</em>&nbsp;e&nbsp;<em>Remover Maldi&ccedil;&atilde;o</em>&nbsp;matar&atilde;o o verme, e&nbsp;<em>Neutralizar Veneno</em>&nbsp;e&nbsp;<em>Dissipar o Caos</em>&nbsp;v&atilde;o atrasar o verme em 1d6 turnos. Se o verme chegar at&eacute; o c&eacute;rebro, a v&iacute;tima morre imediatamente, tornando-se um Filho de Kyuss, e a deteriora&ccedil;&atilde;o e a putrefa&ccedil;&atilde;o n&atilde;o tardar&atilde;o em seguir.</li>\n<li><strong>Vulnerabilidade</strong>: dano causado por ataques de &aacute;cido, fogo, eletricidade, bem como por &aacute;gua benta ou pelo toque de um s&iacute;mbolo sagrado, n&atilde;o ser&aacute; regenerado. Al&eacute;m disso, se algu&eacute;m lan&ccedil;ar&nbsp;<em>Curar Doen&ccedil;as</em>&nbsp;ou&nbsp;<em>Remover Maldi&ccedil;&atilde;o</em>&nbsp;num Filho de Kyuss, ele vai se tornar um zumbi normal (v. LB1 p&aacute;g. 178).</li>\n</ul>\n</div>\n<h3 class=\"\">H&aacute;bitat/Sociedade</h3>\n<div id=\"monsterSociety\">\n<p>Kyuss foi um sacerdote maligno que criou os primeiros Filhos de Kyuss atrav&eacute;s do uso de uma certa maldi&ccedil;&atilde;o, a mando de um deus perverso. Desde ent&atilde;o, o n&uacute;mero dessas criaturas s&oacute; se multiplicou.</p>\n<p>Os Filhos de Kyuss s&atilde;o completamente imprevis&iacute;veis. Suas perambula&ccedil;&otilde;es s&atilde;o totalmente aleat&oacute;rias; alguns espreitam as masmorras ou ru&iacute;nas onde morreram, outros se escondem em criptas, e alguns poucos vagueiam &agrave; luz do dia, atacando vilarejos e outros assentamentos sem hesita&ccedil;&atilde;o.</p>\n<p>H&aacute; boatos de que cl&eacute;rigos malignos de alto n&iacute;vel &agrave;s vezes usam os Filhos de Kyuss para espalhar o terror, prometendo a eles o descanso eterno em troca da coopera&ccedil;&atilde;o.</p>\n</div>\n<h3 class=\"\">Ecologia</h3>\n<div id=\"monsterEcology\">\n<p>&Eacute; fato que os vermes est&atilde;o ligados ao corpo dos Filhos de Kyuss, mas ningu&eacute;m sabe exatamente como. &Eacute; sabido que os vermes s&atilde;o incapazes de sobreviver fora do corpo de um Filho de Kyuss ou de uma v&iacute;tima. Os vermes que n&atilde;o conseguem se alojar no cr&acirc;nio de uma v&iacute;tima morrem assim que caem no ch&atilde;o. Qualquer verme que seja retirado do corpo de um Filho de Kyuss morre ap&oacute;s uma rodada longe do hospedeiro original. Quando um Filho de Kyuss &eacute; destru&iacute;do (ou seja, &eacute; morto permanentemente) seus vermes morrem junto com ele. Alguns s&aacute;bios j&aacute; teorizaram que os vermes na verdade n&atilde;o s&atilde;o criaturas vivas, mas encarna&ccedil;&otilde;es da maldi&ccedil;&atilde;o.</p>\nOs Filhos de Kyuss n&atilde;o guardam tesouro, mas as masmorras que eles habitam &agrave;s vezes cont&ecirc;m itens derrubados por v&iacute;timas que fugiram ou morreram. Alguns Filhos de Kyuss ainda carregam consigo itens preciosos que tinham quando foram transformados.</div>",
+    "described_attacks": "<ul id=\"monsterAtaques\" class=\"monsterAtk\">\n<li>1 &times;&nbsp;<strong>pancada</strong> + 4 (1d8)</li>\n</ul>",
+    "encounters": "1d3",
+    "encounters_lair": "",
+    "xp": 200,
+    "treasure": "l",
+    "treasure_lair": "",
+    "mv": "8",
+    "mvc": "",
+    "mve": "",
+    "mvn": "",
+    "mvv": "",
+    "mvo": "",
+    "dv": "4",
+    "dv_bonus": "",
+    "pv": "",
+    "ca": "9",
+    "jp": "7",
+    "mo": "11",
+    "url": "",
+    "habitat": "Subterrâneos",
+    "hp": {
+      "value": 20,
+      "max": 20
+    }
+  },
+  "prototypeToken": {
+    "name": "Filho de Kyuss",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "exportSource": {
+      "world": "old-dragon-2",
+      "system": "olddragon2e",
+      "coreVersion": "11.315",
+      "systemVersion": "0.0.22"
+    }
+  },
+  "_stats": {
+    "systemId": "olddragon2e",
+    "systemVersion": "0.0.22",
+    "coreVersion": "11.315",
+    "createdTime": 1704576886317,
+    "modifiedTime": 1704576972343,
+    "lastModifiedBy": "2Cvw5GqYPW2NCfmD"
+  }
+}

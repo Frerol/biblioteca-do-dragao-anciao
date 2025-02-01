@@ -1,0 +1,11 @@
+{
+  "name": "Surdez",
+  "tipo": "Arcana",
+  "circulo": 2,
+  "reverseForm": false,
+  "alcance": "36 metros",
+  "duracao": "especial",
+  "jp": "JPS nega",
+  "descricao": "O feitiço surdez faz com que o alvo fique totalmente surdo e incapaz de ouvir qualquer som.</p><p>A vítima pode fazer uma jogada de proteção contra o feitiço. Uma criatura afetada sofre uma penalidade de -1 em seus testes de surpresa, a menos que seus outros sentidos sejam extraordinariamente aguçados. Conjuradores ensurdecidos por este feitiço têm 1 chance em 1d6 de lançar incorretamente qualquer feitiço.</p><p>Surdez só pode ser eliminada por meio de um feitiço Dissipar Magia ou por seu conjurador.",
+  "origem": "<p style='font-size:12px'><i>Esta magia foi publicada originalmente no livro </i>Player's Handbook<i>, de 1989.</i></p>"
+}

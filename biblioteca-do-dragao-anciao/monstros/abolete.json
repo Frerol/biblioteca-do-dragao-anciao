@@ -1,0 +1,43 @@
+{
+    "name": "Abolete",
+
+    "fvtt": "<a href='./fvtt-dl/abolete.json' download><img src='./img/fvtt.png' alt='Download para o Foundry VTT' class='fvtt-icon'></a>",
+
+    "image": "img/aboleth.png",
+
+    "imgalt": "Ilustração de um Abolete",
+
+    "caption": "Artista desconhecido.",
+
+    "specs": {
+        "Conceito": "besta",
+        "Tamanho": "grande",
+        "Alinhamento": "caótico",
+        "Ambiente": "subterrâneos"
+    },
+    
+    "Encontro": "0 (1d4)",
+    "Experiencia": "830XP",
+    "Tesouro": "(F)",
+    "Movimento": "3, 12N",
+    "DV": "8 [40]",
+    "CA": "15",
+    "JP": "11",
+    "MO": "10",
+
+    "ataques": "<li>4 &times; <b>tentáculo</b> + 9 (1d6)</li>",
+    
+    "summary": "<p><i>Criatura anfíbia cujo hábitat são cavernas e lagos subterrâneos. Despreza a maioria das criaturas terrestres e procura escravizar os seres inteligentes da superfície. É tão cruel quanto inteligente.</i></p>",
+
+    "description": "",
+
+    "combat": "<ul><li><b>Escravizar</b>: pode tentar escravizar criaturas a até 10 metros (3 tentativas/dia, 1 criatura/tentativa). Se a vítima fracassar numa JPS, é escravizada telepaticamente pelo abolete. A escravidão pode ser desfeita com as magias <i>Remover Maldição</i> e <i>Dissipar Magia</i>, se o abolete morrer ou se a vítima se afastar a mais de 1,5 quilômetro dele. Em qualquer uma dessas condições, o escravo deverá fazer uma nova JPS (uma tentativa por dia).</li><li><b>Psiquismo</b>: atrai suas vítimas por meio de magias como <i>Ilusão Melhorada</i>, <i>Ilusão Permanmente</i>, <i>Miragem</i> e <i>Som Ilusório</i>, as quais pode usar livremente.</li><li><b>Muco</b>: uma vítima atingida por um tentáculo deve ser bem-sucedida numa JPS, ou sua pele se transformará em uma membrana clara e mucosa depois de 1d4+1 rodadas, que precisará ficar umedecida com água fria, ou o personagem sofrerá 1d12 pontos de dano por turno. Se <i>Curar Doenças</i> for lançada sobre a vítima antes do término da formação da membrana, a transformação cessará. Além disso, lançar <i>Curar Ferimentos</i> (de 3º círculo) fará com que a pele volte ao seu estado normal.</li><li><b>Nuvem de Muco</b>: quando submerso, o abolete se envolve numa névoa viscosa de 30 centímetros de espessura. Quem entrar em contato com a nuvem, inalando-a, deverá ser bem-sucedido numa JPC para resistir a veneno, ou perderá a habilidade de respirar ar. No entanto, a vítima torna-se capaz de respirar água, como se tivesse bebido uma poção de respirar na água, por 1&ndash;3 horas. Essa habilidade pode ser renovada através de um novo contato com a nuvem de muco. Se a vítima infectada tentar respirar ar, ela vai sufocar em 2d6 rodadas. Vinho ou sopa dissolvem a nuvem.</li></ul>",
+
+    "society": "<p>Uma família de aboletes consiste de um pai e 1&ndash;3 filhotes. Apesar do filhote ser tão grande e forte quanto o pai, ele se submete ao chefe da família em tudo, obedecendo-o incondicionalmente.</p><p>Eles possuem órgãos masculinos e femininos, e reproduzem-se uma vez a cada 5 anos, escondendo-se em uma caverna ou outro local remoto, botando um único ovo e cobrindo-o com gosma. O embrião cresce e se desenvolve, num processo que dura cerca de 5 anos. Um recém-nascido leva cerca de dez anos para atingir a idade adulta.</p><p>O abolete passa a maior parte do seu tempo procurando escravos preferencialmente humanos, que ele utiliza escravos para construir imensas cidades submarinas, porém não há provas de que elas realmente existam. Dizem que o abolete conhece horríveis segredos antigos, anteriores ao surgimento do homem, mas esses rumores também não foram comprovados cientificamente. Ao nascer, o filhote absorve todo o conhecimento do pai, e, adulto, adquire todas as informações conhecidas por qualquer criatura inteligente da qual se alimente. Não há dúvida de que essa criatura é uma impressionante fonte de conhecimentos.</p><p>O tesouro de um abolete é composto pelos itens tomados de seus escravos. Esses itens são enterrados em cavernas sob uma camada de gosma semelhante à lama cinzenta, que pode ser reconhecida pelo asqueroso odor de gordura rançosa.</p>",
+
+    "ecology": "<p>Aboletes são onívoros e se alimentam de qualquer matéria orgânica, normalmente algas e micro-organismos; também comem presas inteligentes, pois, através delas, podem obter nutrientes e informações ao mesmo tempo. Eles não possuem inimigos naturais, e mesmo as mais poderosas criaturas marinhas os respeitam. Algumas vezes, sua gosma é usada como componente em <i>poções de respiração na água</i>.</p>",
+
+    "variacoes": "",
+
+    "origem": "<p>Este monstro foi publicado originalmente no livro <i>Monstrous Manual</i>, de 1995.</p>"
+}

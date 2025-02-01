@@ -1,0 +1,614 @@
+:root {
+    --background-color: #eee;
+    --text-color: #111;
+    --bar-color: #007ba0;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-color: #333;
+        --text-color: #eee;
+        --bar-color: #00141a;
+    }
+}
+
+@font-face {
+    font-family: Alegreya;
+    src: url(fonts/Alegreya-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Alegreya;
+    src: url(fonts/Alegreya-Italic-VariableFont_wght.ttf);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url(fonts/AlegreyaSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url(fonts/AlegreyaSans-Italic.ttf);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Middle Ages';
+    src: url(fonts/MiddleAges.ttf);
+}
+
+@font-face {
+    font-family: 'Folklore';
+    src: url(fonts/Folklore.ttf);
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: 'Alegreya', serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    text-align: justify;
+}
+
+.menu-btn {
+    position: absolute;
+    top: 0.5em;
+    left: 5px;
+    z-index: 1;
+    background-color: transparent;
+      border: none;
+      color: var(--background);
+      font-size: 30px;
+  }
+  
+  .menu-lateral {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--bar-color);
+    position: fixed;
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    height: 100vh;
+    width: 220px;
+    padding: 20px;
+    transition: left 0.5s ease-in-out;
+    overflow: auto;
+  }
+  
+  .menu-lateral--off {
+    left: -100%;
+  }
+  
+  .menu-lateral__logo {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+  }
+  
+  .menu-lateral--titulo {
+      text-shadow:
+        -.5px -.5px 0 white,
+        .5px -.5px 0 white,
+        -.5px .5px 0 white,
+        .5px .5px 0 white;
+      font-size: 20px;
+      padding: 1em 0;
+      text-align: center;
+      line-height: 1.5em;
+  }
+
+  .menu-lateral--titulo::after {
+    content: "Biblioteca do Dragão Ancião";
+  }
+  
+  .menu-lateral__link {
+    text-shadow:
+      -.8px -.8px 0 var(--background-color),
+      .8px -.8px 0 var(--background-color),
+      -.8px .8px 0 var(--background-color),
+      .8px .8px 0 var(--background-color);
+    height: 30px;
+    font-family: 'Folklore';
+    font-size: 28px;
+    color: var(--text-color);
+    padding-left: 64px;
+    padding-top: .5em;
+    display: flex;
+    align-items: center;
+  }
+
+a {
+    text-decoration: none;
+  }
+
+header {
+    background-color: var(--bar-color);
+    width: 100vw;
+    height: 2em;
+    padding: 1em 0;
+}
+
+h1 {
+    color: black;
+    text-shadow:
+      -.7px -.7px 0 white,
+      .7px -.7px 0 white,
+      -.7px .7px 0 white,
+      .7px .7px 0 white;
+    font-family: 'Middle Ages', serif;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.pagina-titulo::after {
+    content: "Biblioteca do Dragão Ancião";
+}
+
+main {
+    padding: .5em;
+    padding-bottom: 5em;
+}
+
+.texto-index {
+    padding: 1em 2em;
+    font-size: 20px;
+}
+
+#styleSwitch {
+    position: fixed;
+    top: .3em;
+    right: .3em;
+    font-size: 24px;
+}
+
+.icon-toggle {
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.fa-sun:before {
+    content: "\e518"; /* Ícone do sol */
+}
+
+.fa-moon:before {
+    content: "\e51c"; /* Ícone da lua */
+}
+
+.label {
+    text-align: center;
+}
+
+#monsterSelect {
+    font-family: 'Alegreya Sans', sans-serif;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 16px;
+    color: var(--text-color);
+    background-color: var(--background-color);
+    border: 2px solid var(--bar-color);
+    border-radius: 12px;
+}
+
+p {
+    -webkit-hyphens: auto; /* for Safari and Chrome */
+    -moz-hyphens: auto; /* for Firefox */
+    -ms-hyphens: auto; /* for Edge */
+    hyphens: auto;
+    margin: .25em 0;
+}
+
+h2 {
+    font-family: 'Alegreya', serif;
+    font-variant: small-caps;
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    margin: 1em auto;
+}
+
+.titulo-subpagina {
+    font-family: Folklore;
+    font-variant: normal;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+#monsterName::before {
+    content: "◆ ";
+    font-size: 22px;
+}
+
+#monsterName::after {
+    content: " ◆";
+    font-size: 22px;
+}
+
+#monsterFVTT {
+    display: block;
+    position: absolute;
+    left: 90vw;
+    bottom: 64vh;
+}
+
+.fvtt-icon {
+    display: block;
+    max-width: 30px;
+    margin: 0 auto;
+
+}
+
+h3 {
+    margin: .5em 0;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+b {
+    font-weight: bold;
+}
+
+i {
+    font-style: italic;
+}
+
+#monsterSpecs {
+    font-family: 'Alegreya Sans', serif;
+    font-variant: small-caps;
+    -webkit-hyphens: auto; /* for Safari and Chrome */
+    -moz-hyphens: auto; /* for Firefox */
+    -ms-hyphens: auto; /* for Edge */
+    hyphens: auto;
+    font-size: 18px;
+}
+
+.no-select {
+    user-select: none;
+}
+
+.oculto {
+    display: none;
+}
+
+#flex1, #flex2 {
+    font-family: 'Alegreya Sans', serif;
+    font-variant: small-caps;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    padding: 0 .5em;
+    gap: 1em; /* Espaçamento entre os itens */
+}
+
+#flex1 p {
+    width: calc(50% - 0.5em); /* 50% width with some spacing */
+    margin: 0; /* Remove o espaçamento vertical */
+}
+
+#flex2 {
+    padding: 0 3em;
+    font-size: 14px;
+}
+
+#monsterAtaques {
+    margin: 0 1em;
+}
+
+.monsterAtk {
+    font-family: 'Alegreya Sans', serif;
+    font-size: 14px;
+    font-variant: small-caps;
+}
+
+ul {
+    padding: .5em 1em;
+    list-style-type: none;
+}
+
+li {
+    list-style-type: "◆ ";
+}
+
+.dropcaps:first-of-type:first-letter {
+    font-family: Folklore;
+    font-size: 2em;
+    float: left;
+    margin: 0.5em 0.4em 0 0;
+    line-height: 1em;
+}
+
+#monsterImage {
+    display: block;
+    max-width: 80%;
+    margin: 0 auto;
+
+}
+
+#monsterCaption {
+  font-family: 'Alegreya', serif;
+  font-size: 12px;
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.variacao-nome {
+    font-family: 'Alegreya', serif;
+    font-weight: 900;
+    font-size: 16px;
+    font-variant: small-caps;
+    line-height: 1.5em;
+}
+
+.variacao-xp {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    font-variant: small-caps;
+    line-height: 1.5em;
+}
+
+.origem {
+    margin-top: 2em;
+    font-size: 12px;
+    text-align: right;
+}
+
+.footer-bar {
+    font-size: 14px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 4em;
+    background-color: var(--bar-color);
+    padding: .5em 3em;
+}
+
+.footer-content a {
+    text-decoration: none;
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+.container {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: var(--background-color);
+}
+
+.filter-section {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+input {
+  font-family: 'Alegreya Sans';
+  color: var(--text-color);
+  background: var(--background-color);
+  border: 2px solid var(--bar-color);
+  border-radius: 12px;
+  text-align: center;
+  width: 70%;
+  padding: 10px;
+  margin: 1em .5em;
+}
+
+#circulo,#tipo {
+    font-family: 'Alegreya Sans';
+    color: var(--text-color);
+    background: var(--background-color);
+    border: 2px solid var(--bar-color);
+    border-radius: 12px;
+    padding: .5em;
+    margin: .5em;
+}
+
+.spell-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(80vw, 1fr));
+  gap: 20px;
+}
+
+.recuo-spell {
+    margin-left: 1em;
+}
+
+.circle-container {
+    font-family: 'Alegreya Sans';
+    display: inline-flex;
+    width: 22px;
+    height: 22px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+.circle-container::after {
+    content: "º";
+}
+
+.card.reverse {
+    position: relative;
+}
+
+.card.reverse::before {
+    font-family: 'Alegreya Sans';
+    content: 'R';
+    text-align: center;
+    vertical-align: middle;
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 5px;
+    right: 5px;
+    background-color: rgb(126, 17, 13);
+    color: white;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+.arcana {
+  background-color: rgb(1, 59, 145);
+  color: white;
+}
+
+.divina {
+  background-color: rgb(141, 127, 1);
+  color: white;
+}
+
+.descricao-container {
+  max-height: 150px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+::-webkit-scrollbar {
+    width: .5em;
+}
+  
+::-webkit-scrollbar-track {
+    border: solid 1px var(--text-color);
+}
+  
+::-webkit-scrollbar-thumb {
+    background: var(--bar-color);
+    border-radius: 10px;
+}
+
+.card {
+  border: 3px solid var(--bar-color);
+  padding: 10px;
+  border-radius: 12px;
+  background-color: var(--background-color);
+}
+
+/* Layout desktop */
+
+@media only screen and (min-width: 600px) {
+
+    .menu-lateral__logo {
+        width: 150px;
+    }
+
+    .menu-btn {
+      display: none;
+    }
+
+    .menu-lateral {
+      display: block;
+      width: 250px;
+      left: 0;
+      transition: none;
+    }
+
+    .menu-lateral__link {
+      margin: .5em 0;
+      font-size: 30px;
+    }
+
+    .menu-lateral__link:hover {
+      color: var(--background);
+      padding-left: 56px;
+      border-left: 8px solid var(--background);
+      transition: 0.25s;
+    }
+
+    header {
+        background-color: var(--bar-color);
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 6em;
+        padding: 2em 0;
+    }
+
+    header h1 {
+        margin-top: .5em;
+    }
+
+    h1 {
+        padding-left: 290px;
+        font-size: 60px;
+        font-family: "Middle Ages";
+    }
+
+    #styleSwitch {
+        top: 1em;
+        right: 1em;
+    }
+
+    body {
+        padding: 10em 8em;
+    }
+
+    main {
+        padding-left: 290px;
+        padding-bottom: 0;
+    }
+
+    .texto-index {
+        padding: 2em 10em;
+    }
+
+    #monsterFVTT {
+    display: block;
+    position: absolute;
+    left: 80vw;
+    bottom: 43vh;
+}
+
+    #monsterImage {
+        height: 600px;
+    }
+
+    #flex1 {
+        padding: .5em 5em;
+    }
+
+    #flex1 p {
+        width: calc(25% - 1em); /* 25% width with spacing */
+    }
+
+    #flex2 {
+        padding: .5em 15em;
+    }
+
+    #monsterAtaques {
+        margin: 0 2em;
+    }
+
+    .variacao {
+        padding: 0 10em;
+    }
+
+    input {
+        width: 50%;
+    }
+    
+    .spell-list {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .footer-bar {
+        width: 100%;
+        padding: .5em 0;
+        height: 2em;
+    }
+
+    .footer-content {
+        padding-left: 290px;
+    }
+  }

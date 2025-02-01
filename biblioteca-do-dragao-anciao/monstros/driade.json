@@ -1,0 +1,43 @@
+{
+    "name": "Dríade",
+
+    "fvtt": "<a href='./fvtt-dl/driade.json' download><img src='./img/fvtt.png' alt='Download para o Foundry VTT' class='fvtt-icon'></a>",
+
+    "image": "img/driade.jpg",
+
+    "imgalt": "Ilustração de uma Dríade",
+
+    "caption": "Arte criada pelo <i>Microsoft Bing</i>.",
+
+    "specs": {
+        "Conceito": "humanoide",
+        "Tamanho": "médio",
+        "Alinhamento": "neutro",
+        "Ambiente": "florestas"
+    },
+    
+    "Encontro": "1 ou 1d6",
+    "Experiencia": "80XP",
+    "Tesouro": "S, L",
+    "Movimento": "9",
+    "DV": "2 [10]",
+    "CA": "0",
+    "JP": "6",
+    "MO": "9",
+
+    "ataques": "<li>1 &times; <b>faca</b> (1d4)</li>",
+    
+    "summary": "<p><i>Essas lindas donzelas são, na verdade, ninfas das florestas. São criaturas esquivas na mesma medida que sedutivas, e raramente são avistadas se não forem surpreendidas.</i></p>",
+
+    "description": "<p class='dropcaps'>As feições belas, delicadas e finas das dríades são muito similares às de donzelas élficas. Dríades têm maçãs do rosto altas e olhos da cor âmbar, verde-escura ou violeta. A cor da pele e dos cabelos da dríade muda de acordo com a estação do ano, o que lhes confere uma camuflagem natural. No outono os cabelos da dríade assumem um tom dourado ou avermelhado e sua pele escurece para se adequar à cor dos cabelos. Isso permite que ela se camufle em meio às folhas de outono, que caem de suas árvores. No inverno, tanto seus cabelos quanto sua pele tornam-se brancos como a neve que cobra os bosques de carvalhos.Nessas duas épocas do ano, as pessoas confundem as dríades com donzelas atraentes, talvez de origem élfica. No entanto, isso não ocorreria na primavera ou no verão, quando sua pele é levemente bronzeada e seus cabelos, verdes como as folhas das árvores à sua volta.</p><p>Geralmente dríades vestem trajes simples e largos. Suas vestimentas geralmente tem a mesma cor dos bosques de carvalhos daquela determinada estação do ano. Elas falam um idioma próprio, bem como élfico e a línguas de ninfas e pixies. Elas também são capazes de conversar com plantas.</p>",
+
+    "combat": "<p>Dríades costumam ser tímidas e pacíficas. Raramente portam armas além de uma faca, a qual usa como ferramenta. Embora a dríade possa utilizar essa arma numa luta, ela vai evitar isso a menos que se sinta muito ameaçada. Numa situação de combate ela tentará fazer uso da magia <i>Enfeitiçar Pessoas</i> na pessoa que seria mais útil para ela. Contudo, ela não usa essa magia apenas em situações de combate; sempre que uma dríade encontra um macho que tenha Carisma 16 ou superior, ela tentará enfeitiçá-lo. Se for bem-sucedida, ela vai levá-lo para sua árvore-lar com intuito de torná-lo um escravo amoroso. Há uma chance de 1-3 em 1d6 de essa vítima nunca mais voltar. Se conseguir, será somente após 1d4 anos de cativeiro.</p><ul><li><b>Magia</b>: a dríade é capaz de lançar <i>Enfeitiçar Pessoas</i> três vezes por dia (apenas uma vez por rodada). Como a magia é poderosa, a JPS realizada pela vítima para resistir é difícil. Além disso, ela é capaz de lançar <i>Porta Dimensional</i> em qualquer árvore para se teleportar para sua árvore-lar. Por fim, ela pode lançar <i>Falar com Plantas</i> para rastrear ou perturbar grupos de pessoas.</li></ul>",
+
+    "society": "<p>Reza a lenda que as dríades são, na verdade, as almas personificadas de carvalhos muito antigos. Não se sabe até que ponto isso é verdade; contudo, é fato que elas têm um elo com um único enorme carvalho durante suas vidas, além de serem incapazes de se afastar mais que 300 metros dessa árvore. Se por acaso ela se afastar além disso, enfraquecerá e morrerá em 6d6 horas se não retornar à sua árvore-lar. O carvalho de uma dríade não irradia magia, mas quem encontrar o lar de uma delas tem bastante controle sobre a ninfa: a dríade sofre dano junto com sua árvore-lar. Ela defenderá sua árvore com unhas e dentes se alguém atacá-la.</p><p>Embora dríades sejam muito solitárias, já se encontrou até seis delas em um determinado bosque. Isso, contudo, é bem raro. O que isso significa, na verdade, é que há vários carvalhos de dríade perto uns dos outros. Essas dríades podem socorrer suas semelhantes, mas nunca se reunirão por qualquer outro motivo. Tesouros possuídos por essas ninfas dos bosques geralmente são guardados escondidos, próximos à sua árvore-lar. O ouro e as gemas que compõem o tesouro de uma dríade quase sempre são presentes de aventureiros enfeitiçados.</p>As dríades sabem que humanos e semi humanos as temem por conta de sua magia <i>Enfeitiçar Pessoas</i>, então elas raramente interagem com estranhos. Se abordadas com cuidado, entretanto, as dríades geralmente ajudam aventureiros. Elas também são boas fontes de informações, já que sabem muita coisa sobre a área em que vivem.",
+
+    "ecology": "<p>Dríades são protetoras das florestas e bosques em que habitam. Quaisquer ações que prejudiquem a região, particularmente vegetais, não serão bem vistas pela ninfa.</p>",
+
+    "variacoes": "",
+
+    "origem": "<p>Este monstro foi publicado originalmente no livro <i>Monstrous Manual</i>, de 1995.</p>"
+}

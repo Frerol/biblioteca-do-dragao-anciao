@@ -1,0 +1,11 @@
+{
+  "name": "Punho de Pedra",
+  "tipo": "Arcana",
+  "circulo": 1,
+  "reverseForm": false,
+  "alcance": "pessoal",
+  "duracao": "1 rodada/nível",
+  "jp": "nenhuma",
+  "descricao": "Quando esta magia é lançada, uma das mãos do conjurador (a critério dele) se transforma em pedra. A mão permanece flexível, mas pode ser usada para socar, esmagar ou espremer objetos e oponentes como se o mago tivesse Força 18. Bônus de ataque devido à força não se aplicam se o conjurador usar qualquer arma que não seja seu punho.",
+  "origem": "<p style='font-size:12px'><i>Esta magia foi publicada originalmente no livro </i>Tome of Magic<i>, de 1991.</i></p>"
+}

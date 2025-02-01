@@ -1,0 +1,43 @@
+{
+    "name": "Beemote",
+
+    "fvtt": "<a href='./fvtt-dl/beemote.zip' download><img src='./img/fvtt.png' alt='Download para o Foundry VTT' class='fvtt-icon'></a>",
+
+    "image": "img/behemoth.jpg",
+
+    "imgalt": "Ilustração de um Beemote",
+
+    "caption": "Arte criada pelo <i>Microsoft Bing</i> e adaptada por mim.",
+
+    "specs": {
+        "Conceito": "animal",
+        "Tamanho": "colossal",
+        "Alinhamento": "neutro",
+        "Ambiente": "florestas e planícies"
+    },
+    
+    "Encontro": "1",
+    "Experiencia": "3.425XP",
+    "Tesouro": "-",
+    "Movimento": "12, 18N",
+    "DV": "16 [80]",
+    "CA": "16",
+    "JP": "14",
+    "MO": "10",
+
+    "ataques": "<li>1 &times; <b>mordida</b> + 14 (4d12)</li>",
+    
+    "summary": "<p><i>Criatura que se assemelha a uma baleia orca, porém é terrestre e possui pernas. Apesar de serem predadores ferozes e não temerem os homens, são criaturas raras.</i></p>",
+
+    "description": "",
+
+    "combat": "<ul><li><b>Emboscar</b>: os beemotes sempre vão preferir emboscar sua vítima, e tem uma chance de 1-3 em 1d6 de surpreender suas vítimas.</li></ul>",
+
+    "society": "<p>Os beemotes são carnívoros vorazes, e o território de cada um deles consiste em áreas de 250 quilômetros quadrados; numa área menor talvez faltasse alimento a eles. Eles defendem seus territórios com unhas e dentes, principalmente contra indivíduos de sua própria espécie</p>",
+
+    "ecology": "<p>Beemotes comem qualquer animal, até mesmo outros carnívoros. São bastante rápidos e utilizarão suas habilidades aquáticas para conseguir presa.</p><p></p>",
+
+    "variacoes": "<h3>Variações</h3><hr><div id='flex1'><h4 class='variacao-nome'>Beemote das Neves</h4><p>geleiras</p><p class='variacao-xp'>- [3.075xp]</p></div><hr><div id='flex2'><p><b>DV</b><br>15</p><p><b>CA</b><br>15</p><p><b>JP</b><br>14</p><p><b>MV</b><br>12, 18C</p><p><b>MO</b><br>9</p></div><hr><li class='monsterAtk' style='margin: 0 1em'>1 &times; <b>mordida</b> + 8 (4d10)</li><p style='margin: 1em 0'>O beemote das neves habita nas regiões geladas do mundo, onde a vastidão branca da neve perpétua vai até o horizonte. Essas feras possuem um pelo grosso e branco, e é capaz de escavar o chão congelado para se esconder. São capazes de perceber os passos de presas a até 100 metros de distância, para então emergirem de dentro da neve e atacar. Quando fazem isso, os beemotes das neves têm 1-4 em 1d6 de chance de surpreender os inimigos.</p><hr><div id='flex1'><h4 class='variacao-nome'>Beemote dos Pântanos</h4><p>pântanos</p><p class='variacao-xp'>- [2.725xp]</p></div><hr><div id='flex2'><p><b>DV</b><br>14</p><p><b>CA</b><br>15</p><p><b>JP</b><br>13</p><p><b>MV</b><br>12, 18N</p><p><b>MO</b><br>9</p></div><hr><li class='monsterAtk' style='margin: 0 1em'>1 &times; <b>mordida</b> + 8 (4d10)</li><p style='margin: 1em 0'>Beemotes dos pântanos, criaturas cinza-esverdeadas, às vezes habitam pântanos, charcos e manguezais, espreitando por baixo das águas turvas dessas regiões. Se não houver nenhum corpo d’água disponível, ele usará arbustos e árvores como esconderijo.</p>",
+
+    "origem": "<p>Este monstro foi publicado originalmente no livro <i>Lankhmar: City of Adventure</i>, de 1993.</p>"
+}
